@@ -1,0 +1,21 @@
+[2019-10-16 19:07:48] [info] Start Program:
+Path:"E:\Program Files\C\vs\结队项目\Debug\结队项目.exe"
+Arguments:
+Working directory: "E:\Program Files\C\vs\结队项目\结队项目\"
+Modules: Selected: E:\Program Files\C\vs\结队项目\Debug\结队项目.exe E:\Program Files\C\vs\结队项目\Debug\UnitTest1.dll Excluded: 
+Sources: Selected: E:\Program Files\C\vs\结队项目\结队项目 E:\Program Files\C\vs\结队项目\UnitTest1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Lenovo\AppData\Local\Temp\cr5kgzqq.pmm 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-10-16 19:07:49] [info] Module: E:\Program Files\C\vs\结队项目\Debug\结队项目.exe is selected because it matches selected pattern: 
+[2019-10-16 19:07:53] [info] ----------------------------------------------------
+[2019-10-16 19:07:53] [info] Coverage binary generated in file: C:\Users\Lenovo\AppData\Local\Temp\cr5kgzqq.pmm
+[2019-10-16 19:07:54] [info] ----------------------------------------------------
